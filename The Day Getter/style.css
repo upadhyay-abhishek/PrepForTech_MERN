@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    height: 100vh;
+   
+}
+
+.container{
+    width: 50vw;
+    height:300px;
+    /* align-items: center;
+    display:flex;
+    justify-content: center; */
+}
+#id{
+    margin:10px;
+    border-radius: 16px;
+}
+h1{
+   color:brown;
+}
+#btn{
+    margin:15px;
+    border-radius: 15px;
+}
+#result{
+    width:40vw;
+}
